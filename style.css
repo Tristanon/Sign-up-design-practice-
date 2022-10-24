@@ -117,3 +117,11 @@ button:hover {
 #price-container {
   margin-bottom: 10px;
 }
+
+@media(max-width:650px){
+  #bottome-left-section,#bottom-right-section,#card{
+    width:100%;
+    height:auto;
+  }
+}
+    
